@@ -1,0 +1,1 @@
+Adversarial facial recognition attacks are techniques aimed at manipulating or deceiving facial recognition systems. These attacks can be used in various contexts, such as security, privacy, or even satire.
